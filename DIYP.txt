@@ -199,12 +199,11 @@ TVB明珠,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fs
 凤凰卫视资讯台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰卫视电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-2（82）,http://61.238.6.49:8001/bysid/82
-,亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 港台電視31 (720p),https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 港台電視32 (480p),https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-,無綫新聞資訊台（83）,http://61.238.6.49:8001/bysid/83
-,無綫財經資訊台（85）,http://61.238.6.49:8001/bysid/85
+無綫新聞資訊台（83）,http://61.238.6.49:8001/bysid/83
+無綫財經資訊台（85）,http://61.238.6.49:8001/bysid/85
 翡翠台（81）,http://61.238.6.49:8000/bysid/1
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
