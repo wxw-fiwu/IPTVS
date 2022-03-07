@@ -64,7 +64,6 @@ CETV-1,http://39.134.176.253/PLTV/88888888/224/3221226132/index.m3u8
 CGTN-国际台,http://39.134.176.253/PLTV/88888888/224/3221226314/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 
-
 卫视,#genre#
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
@@ -169,7 +168,6 @@ CGTN-国际台,http://39.134.176.253/PLTV/88888888/224/3221226314/index.m3u8
 旅游卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225722/index.m3u8
 兵团卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
 康巴卫视,http://scgctvshow.sctv.com/sdlive/kangba/1.m3u8
-
 
 香港,#genre#
 凤凰中文,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
@@ -870,7 +868,6 @@ TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 陕西西部电影,http://111.20.45.160/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
 陕西都市青春,http://111.20.45.169/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
 
-
 江浙沪皖,#genre#
 安徽经视,http://zbbf2.ahtv.cn/live/750.m3u8
 安徽综艺,http://zbbf2.ahtv.cn/live/758.m3u8
@@ -983,9 +980,6 @@ TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 福建经济,rtsp://183.252.166.199/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
 福建体育,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 福建新闻,rtsp://183.252.166.199/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
-
-
-
 
 影视,#genre#
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
