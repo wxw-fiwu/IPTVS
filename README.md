@@ -6,9 +6,7 @@ https://cdn.jsdelivr.net/gh/wxw-fiwu/IPTVS/DIYP.txt
 
 https://cdn.jsdelivr.net/gh/wxw-fiwu/IPTVS@master/DIYP.txt
 
-https://cdn.jsdelivr.net/gh/wxw-fiwu/IPTVS/IPTV-Pro.m3u8
-
-https://cdn.jsdelivr.net/gh/wxw-fiwu/IPTVS@master/IPTV-Pro.m3u8
+https://cdn.jsdelivr.net/gh/wxw-fiwu/IPTVS/IPTV-Pro.m3u
 
 北京联通电信移动IPTV
 
