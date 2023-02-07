@@ -22,6 +22,9 @@ https://cdn.jsdelivr.net/gh/wxw-fiwu/IPTVS/bj-telecom-iptv.m3u
 
 https://cdn.jsdelivr.net/gh/wxw-fiwu/IPTVS/bj-mobile-iptv.m3u
 
+## EPG节目单
+http://epg.51zmt.top:8000/e.xml
+
 ---------------------------------------------------
 
 ### 刷新缓存：
